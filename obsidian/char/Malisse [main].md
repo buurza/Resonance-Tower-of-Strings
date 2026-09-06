@@ -1,17 +1,19 @@
-- gender 
+- sex 
 	female
 - age
-	- 67
+	21
 - looks
-	blond hair with black stains
+	white  hair with black stains
 	blue eyes
-	pink hoodie with majestic unicorn logo on it
-	white medium skirt to knees
-	pink nails
+	black hoodie with gray metal band picture on it
+	black jeans
+	black nails
 - interested in
-	girly aesthetic music
-	loves to sing and write love songs
-	writing in her diary
+	music
+	playing on drums and electrical guitar
+	video games
 - scared of
+	humans (antisocial behavior)
 	bugs/insects
-	darkness, shadows 
+- character details
+	scared of knowing what is after the death
